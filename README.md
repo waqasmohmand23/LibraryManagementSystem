@@ -21,7 +21,7 @@ A simple, local Library Management System built with C# and Windows Forms (.NET 
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/library-management-system.git
+    https://github.com/waqasmohmand23/LibraryManagementSystem.git
     ```
 2.  Open the solution file `Library management system.sln` in Visual Studio.
 3.  Build the solution (Ctrl+Shift+B).
